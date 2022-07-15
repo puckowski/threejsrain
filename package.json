@@ -1,0 +1,28 @@
+{
+  "name": "threejsrain",
+  "version": "1.0.0",
+  "description": "Three.js Rain Effects",
+  "main": "rainrealistic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puckowski/threejsrain.git"
+  },
+  "keywords": [
+    "three.js",
+    "rain",
+    "effect",
+    "realistic"
+  ],
+  "author": "Daniel Puckowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puckowski/threejsrain/issues"
+  },
+  "homepage": "https://github.com/puckowski/threejsrain#readme",
+  "dependencies": {
+    "local-web-server": "^4.2.1"
+  }
+}
